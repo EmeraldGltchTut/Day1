@@ -1,2 +1,2 @@
-"#-Jave Learning Course-#"
-"#-  By: EmeraldGltch  -#"
+Java Learning Course
+  By: EmeraldGltch
