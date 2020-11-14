@@ -1,0 +1,3 @@
+C:\Users\EmeraldStanley\Day1\JavaTut\JavaTut\obj\Debug\JavaTut.njsprojAssemblyReference.cache
+C:\Users\EmeraldStanley\Day1\JavaTut\JavaTut\obj\Debug\JavaTut.njsproj.CoreCompileInputs.cache
+C:\Users\EmeraldStanley\Day1\JavaTut\JavaTut\bin\Microsoft.NodejsTools.WebRole.dll
