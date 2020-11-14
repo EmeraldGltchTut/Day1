@@ -1,0 +1,9 @@
+{
+  "name": "java-tut",
+  "version": "0.0.0",
+  "description": "JavaTut",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
