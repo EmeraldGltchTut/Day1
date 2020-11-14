@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "JavaTut", "JavaTut\JavaTut.njsproj", "{9960F47E-C2E0-4EFE-874D-BED034CF4964}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "JavaTut", "JavaTut\JavaTut.njsproj", "{958C17B1-075D-43D3-ABEB-FA1670A193BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9960F47E-C2E0-4EFE-874D-BED034CF4964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9960F47E-C2E0-4EFE-874D-BED034CF4964}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9960F47E-C2E0-4EFE-874D-BED034CF4964}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9960F47E-C2E0-4EFE-874D-BED034CF4964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958C17B1-075D-43D3-ABEB-FA1670A193BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958C17B1-075D-43D3-ABEB-FA1670A193BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958C17B1-075D-43D3-ABEB-FA1670A193BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958C17B1-075D-43D3-ABEB-FA1670A193BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A2509992-1D0B-4AB5-BB63-DBD57DFF89C7}
+		SolutionGuid = {2D68257F-5E53-472A-B915-347CD0804128}
 	EndGlobalSection
 EndGlobal

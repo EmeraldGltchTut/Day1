@@ -1,3 +1,3 @@
 # JavaTut
-## This is the first update for the JavaTut
-* If afraid stay calm
+## This is the first day of JavaScript
+* Don't be afraid
